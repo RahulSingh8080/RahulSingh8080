@@ -1,40 +1,48 @@
 ## Hi there 👋, I'm Rahul Singh!
 
-Welcome to my GitHub profile! I'm a **Data Scientist** with a passion for uncovering insights from data and building robust machine-learning models to solve real-world problems.
+Welcome to my GitHub profile! I'm a **Data Scientist** with a strong passion for transforming raw data into meaningful insights and building innovative machine learning models to solve real-world problems.
 
 ---
 
 ### 🌟 About Me:
 - 🔭 **Currently Working At:** RBL Bank (Credit Card Division)
 - 🎓 **Education:** MBA in Data Science & Analytics
-- 🌱 **Exploring:** Advanced NLP, Deep Learning, and Data Visualization techniques
-- 💡 **Expertise In:**
+- 🌱 **Currently Exploring:** Advanced NLP techniques, Deep Learning architectures, and Interactive Data Visualization
+- 💡 **My Expertise Includes:**
   - **Programming Languages:** Python, SQL
-  - **Data Science Tools:** Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn
-  - **Machine Learning:** Supervised & Unsupervised Models, NLP, and Deep Learning
-  - **Data Visualization:** Power BI, Matplotlib
-- 🤝 **Collaborations:** Open to working on data science and machine learning projects
+  - **Data Science Tools:** Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
+  - **Machine Learning:** Supervised & Unsupervised Models, NLP, Ensemble Techniques, and Deep Learning (TensorFlow, Keras)
+  - **Data Visualization:** Power BI, Matplotlib, and Seaborn
+  - **Other Skills:** Model Deployment (Streamlit, Flask), Feature Engineering, Time Series Analysis
+- 🤝 **Open To Collaborations:** I’m excited to work on data science, AI, and ML projects that make a difference.
 - 📫 **How to Reach Me:** 
-  - [LinkedIn](https://www.linkedin.com/in/rahulsingh8080/)
+  - [LinkedIn](https://www.linkedin.com/in/rahul-singh-583a3619b/)
   - [Email](mailto:thakurrahulsinghjdm123@gmail.com)
 
 ---
 
 ### 🛠️ My Projects:
-- 🚀 [Fake News Detection Using Machine Learning](https://github.com/RahulSingh8080/Fake-News-Prediction-using-Machine-Learning)
-- 📊 [Analyzing Walmart Store Sales Data](https://github.com/RahulSingh8080/Analyzing-Walmart-Store-Sales-Data)
-- 📈 [Sales Performance Dashboard in Power BI](https://github.com/RahulSingh8080/Sales-Performance-Analysis-Dashboard_Power-BI)
+- 🚀 **[Fake News Detection Using Machine Learning](https://github.com/RahulSingh8080/Fake-News-Prediction-using-Machine-Learning):**
+   - Built an ensemble-based ML model to classify news articles as fake or real with 95%+ accuracy.
+   - Applied NLP techniques like TF-IDF and Count Vectorization for feature extraction.
+- 📊 **[Analyzing Walmart Store Sales Data](https://github.com/RahulSingh8080/Analyzing-Walmart-Store-Sales-Data):**
+   - Conducted sales performance analysis to identify trends and insights using Python.
+   - Presented findings with detailed visualizations for actionable decision-making.
+- 📈 **[Sales Performance Dashboard in Power BI](https://github.com/RahulSingh8080/Sales-Performance-Analysis-Dashboard_Power-BI):**
+   - Developed an interactive dashboard to track sales KPIs and visualize revenue patterns effectively.
 
 ---
 
 ### 📊 GitHub Stats:
 ![Rahul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RahulSingh8080&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RahulSingh8080&layout=compact&theme=radical)
 
 ---
 
 ### ⚡ Fun Fact:
-I believe **data is the new oil**, and I love the challenge of extracting valuable insights from raw data!
+I believe **data is the new oil**, and every dataset holds hidden gems of knowledge waiting to be discovered. Let’s uncover them together! 😊
 
 ---
 
-Let's connect and collaborate! 😊
+### 🌐 Let's Connect:
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/rahul-singh-583a3619b/) or drop me an email at **[thakurrahulsinghjdm123@gmail.com](mailto:thakurrahulsinghjdm123@gmail.com)**. I'm always open to collaborating on impactful projects!
