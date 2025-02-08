@@ -34,8 +34,11 @@ Welcome to my GitHub profile! I'm a **Data Scientist** with a strong passion for
 ---
 
 ### 📊 GitHub Stats:
-![Rahul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RahulSingh8080&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RahulSingh8080&layout=compact&theme=radical)
+![Rahul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RahulSingh8080&show_icons=true&theme=radical&count_private=true&hide=stars,issues)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RahulSingh8080&layout=compact&theme=radical&langs_count=8)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=RahulSingh8080&theme=radical)
 
 ---
 
