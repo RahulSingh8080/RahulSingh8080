@@ -1,6 +1,6 @@
 ## Hi there 👋, I'm Rahul Singh!
 
-Welcome to my GitHub profile! I'm a **Data Scientist** with a strong passion for transforming raw data into meaningful insights and building innovative machine learning models to solve real-world problems.
+Welcome to my GitHub profile! I'm a **Aspiring Data Scientist** with a strong passion for transforming raw data into meaningful insights and building innovative machine learning models to solve real-world problems.
 
 ---
 
