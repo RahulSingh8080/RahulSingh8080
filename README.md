@@ -1,11 +1,11 @@
 ## Hi there 👋, I'm Rahul Singh!
 
-Welcome to my GitHub profile! I'm a **Aspiring Data Scientist** with a strong passion for transforming raw data into meaningful insights and building innovative machine learning models to solve real-world problems.
+Welcome to my GitHub profile! with a strong passion for transforming raw data into meaningful insights and building innovative machine learning models to solve real-world problems.
 
 ---
 
 ### 🌟 About Me:
-- 🔭 **Currently Working At:** RBL Bank (Credit Card Division)
+- 🔭 **Currently Working At:** RBL Bank - Credit Card & Communications
 - 🎓 **Education:** MBA in Data Science & Analytics
 - 🌱 **Currently Exploring:** Advanced NLP techniques, Deep Learning architectures, and Interactive Data Visualization
 - 💡 **My Expertise Includes:**
