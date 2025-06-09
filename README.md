@@ -2,6 +2,7 @@
 
 Welcome to my GitHub profile! with a strong passion for transforming raw data into meaningful insights and building innovative machine learning models to solve real-world problems.
 
+Coursera: https://www.coursera.org/learner/rahul-singh-5270
 ---
 
 ### 🌟 About Me:
