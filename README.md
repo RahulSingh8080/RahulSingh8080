@@ -6,7 +6,7 @@ Coursera: https://www.coursera.org/learner/rahul-singh-5270
 ---
 
 ### 🌟 About Me:
-- 🔭 **Currently Working At:** RBL Bank - Credit Card & Communications
+- 🔭 **Currently Working At:** RBL Bank - Credit Card
 - 🎓 **Education:** MBA in Data Science & Analytics
 - 🌱 **Currently Exploring:** Advanced NLP techniques, Deep Learning architectures, and Interactive Data Visualization
 - 💡 **My Expertise Includes:**
