@@ -4,7 +4,7 @@ Welcome to my GitHub profile! with a strong passion for transforming raw data in
 
 Coursera: https://www.coursera.org/learner/rahul-singh-5270
 ---
-
+https://rahul-singh-analytics-d11br1j.gamma.site/
 ### 🌟 About Me:
 - 🔭 **Currently Working At:** RBL Bank - Credit Card
 - 🎓 **Education:** MBA in Data Science & Analytics
