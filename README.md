@@ -6,7 +6,7 @@ Coursera: https://www.coursera.org/learner/rahul-singh-5270
 ---
 https://rahul-singh-analytics-d11br1j.gamma.site/
 ### 🌟 About Me:
-- 🔭 **Currently Working At:** RBL Bank - Credit Card
+- 🔭 **Currently Working At:** RBL Bank Limited
 - 🎓 **Education:** MBA in Data Science & Analytics
 - 🌱 **Currently Exploring:** Advanced NLP techniques, Deep Learning architectures, and Interactive Data Visualization
 - 💡 **My Expertise Includes:**
@@ -49,4 +49,4 @@ I believe **data is the new oil**, and every dataset holds hidden gems of knowle
 ---
 
 ### 🌐 Let's Connect:
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/rahul-singh-583a3619b/) or drop me an email at **[thakurrahulsinghjdm123@gmail.com](mailto:thakurrahulsinghjdm123@gmail.com)**. I'm always open to collaborating on impactful projects!
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/rahul-singh-583a3619b/) or drop me an email at **[rahulthakur.analytics@gmail.com](mailto:rahulthakur.analytics@gmail.com)**. I'm always open to collaborating on impactful projects!
