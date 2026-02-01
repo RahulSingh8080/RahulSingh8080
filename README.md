@@ -1,52 +1,86 @@
-## Hi there 👋, I'm Rahul Singh!
+# Hi, I’m Rahul Singh  
 
-Welcome to my GitHub profile! with a strong passion for transforming raw data into meaningful insights and building innovative machine learning models to solve real-world problems.
+**Data Analytics | Data Science | SQL | Power BI | Python | Business Intelligence**
 
-Coursera: https://www.coursera.org/learner/rahul-singh-5270
----
-https://rahul-singh-analytics-d11br1j.gamma.site/
-### 🌟 About Me:
-- 🔭 **Currently Working At:** RBL Bank Limited
-- 🎓 **Education:** MBA in Data Science & Analytics
-- 🌱 **Currently Exploring:** Advanced NLP techniques, Deep Learning architectures, and Interactive Data Visualization
-- 💡 **My Expertise Includes:**
-  - **Programming Languages:** Python, SQL
-  - **Data Science Tools:** Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
-  - **Machine Learning:** Supervised & Unsupervised Models, NLP, Ensemble Techniques, and Deep Learning (TensorFlow, Keras)
-  - **Data Visualization:** Power BI, Matplotlib, and Seaborn
-  - **Other Skills:** Model Deployment (Streamlit, Flask), Feature Engineering, Time Series Analysis
-- 🤝 **Open To Collaborations:** I’m excited to work on data science, AI, and ML projects that make a difference.
-- 📫 **How to Reach Me:** 
-  - [LinkedIn](https://www.linkedin.com/in/rahul-singh-583a3619b/)
-  - [Email](mailto:thakurrahulsinghjdm123@gmail.com)
+Welcome to my GitHub profile!  
+I’m passionate about **transforming raw data into meaningful insights** and building **data-driven and machine learning solutions** to solve real-world business problems.
 
 ---
 
-### 🛠️ My Projects:
-- 🚀 **[Fake News Detection Using Machine Learning](https://github.com/RahulSingh8080/Fake-News-Prediction-using-Machine-Learning):**
-   - Built an ensemble-based ML model to classify news articles as fake or real with 95%+ accuracy.
-   - Applied NLP techniques like TF-IDF and Count Vectorization for feature extraction.
-- 📊 **[Analyzing Walmart Store Sales Data](https://github.com/RahulSingh8080/Analyzing-Walmart-Store-Sales-Data):**
-   - Conducted sales performance analysis to identify trends and insights using Python.
-   - Presented findings with detailed visualizations for actionable decision-making.
-- 📈 **[Sales Performance Dashboard in Power BI](https://github.com/RahulSingh8080/Sales-Performance-Analysis-Dashboard_Power-BI):**
-   - Developed an interactive dashboard to track sales KPIs and visualize revenue patterns effectively.
+## About Me
+
+-  **Currently Working At:** RBL Bank Limited  
+-  **Education:** MBA in Data Science & Analytics  
+-  **Currently Exploring:**  
+  Advanced NLP techniques, Deep Learning architectures, and Interactive Data Visualization  
+- **Strength:** Strong blend of **business understanding + analytics + technical skills**
 
 ---
 
-### 📊 GitHub Stats:
-![Rahul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RahulSingh8080&show_icons=true&theme=radical&count_private=true&hide=stars,issues)
+## Skills & Expertise
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RahulSingh8080&layout=compact&theme=radical&langs_count=8)
+###  Programming & Querying
+- Python  
+- SQL  
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=RahulSingh8080&theme=radical)
+### Data Analytics & Visualization
+- Pandas, NumPy  
+- Matplotlib, Seaborn  
+- **Power BI** (Dashboarding, DAX, Business Reporting)
+
+### Data Science & Machine Learning
+- Supervised & Unsupervised Learning  
+- NLP (text processing & classification)  
+- Ensemble Techniques  
+- Deep Learning (TensorFlow, Keras)
+
+### Other Technical Skills
+- Feature Engineering  
+- Time Series Analysis  
+- Model Deployment (Streamlit, Flask)  
+- End-to-end analytics & ML workflows  
 
 ---
 
-### ⚡ Fun Fact:
-I believe **data is the new oil**, and every dataset holds hidden gems of knowledge waiting to be discovered. Let’s uncover them together! 😊
+## Portfolio Overview
+
+My work is organized into focused portfolios showcasing **end-to-end analytics and data science skills**:
+
+-  **Data Analytics Portfolio**  
+  End-to-end analytics using **SQL, Python, and Power BI**
+
+-  **SQL Analytics Portfolio**  
+  Advanced SQL: window functions, CTEs, subqueries, and business analytics
+
+- **Power BI Portfolio**  
+  Interactive dashboards, DAX, data modeling, and executive reporting
+
+-  **Python Portfolio (Analysis → ML)**  
+  Data analysis, EDA, automation, and machine learning workflows
+
+*(Each repository demonstrates structured problem-solving and real-world business scenarios.)*
 
 ---
 
-### 🌐 Let's Connect:
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/rahul-singh-583a3619b/) or drop me an email at **[rahulthakur.analytics@gmail.com](mailto:rahulthakur.analytics@gmail.com)**. I'm always open to collaborating on impactful projects!
+## Open to Collaboration
+
+I’m open to collaborating on:
+- Data Analytics & Business Intelligence projects  
+- Data Science & Machine Learning use cases  
+- Real-world, impact-driven data solutions  
+
+---
+
+## Connect With Me
+
+- **LinkedIn:** *(add your LinkedIn profile link here)*  
+- **Email:** rahulthakur.analytics@gmail.com  
+- **Coursera:** https://www.coursera.org/learner/rahul-singh-5270  
+- **Portfolio Website:** https://rahul-singh-analytics-d11br1j.gamma.site/
+
+---
+
+## ⚡ Fun Fact
+
+> *I believe data is the new oil — and every dataset holds insights waiting to be discovered.*  
+Let’s uncover them together 😊
