@@ -73,7 +73,7 @@ I’m open to collaborating on:
 
 ## Connect With Me
 
-- **LinkedIn:** *(add your LinkedIn profile link here)*  
+- **LinkedIn:** *(https://www.linkedin.com/in/rahul-singh-583a3619b/)*  
 - **Email:** rahulthakur.analytics@gmail.com  
 - **Coursera:** https://www.coursera.org/learner/rahul-singh-5270  
 - **Portfolio Website:** https://rahul-singh-analytics-d11br1j.gamma.site/
