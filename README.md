@@ -63,19 +63,20 @@ I work on **end-to-end analytics workflows** — from data extraction and cleani
 
 My repositories are structured to showcase **real-world, end-to-end analytics use cases** aligned with industry needs:
 
-- **Data Analytics Portfolio**  **https://github.com/RahulSingh8080/End-to-End-Data-Analytics-Projects**
+- **[Data Analytics Portfolio](https://github.com/RahulSingh8080/End-to-End-Data-Analytics-Projects)**  
   Business problem-solving using **SQL, Python, and Power BI**
 
-- **SQL Analytics Portfolio** **https://github.com/RahulSingh8080/SQL-Portfolio**
+- **[SQL Analytics Portfolio](https://github.com/RahulSingh8080/SQL-Portfolio)**  
   Advanced SQL use cases: **CTEs, window functions, KPIs, business insights**
 
-- **Power BI Portfolio**  **https://github.com/RahulSingh8080/PowerBI-Business-Intelligence-Portfolio**
+- **[Power BI Portfolio](https://github.com/RahulSingh8080/PowerBI-Business-Intelligence-Portfolio)**  
   Interactive dashboards, **DAX-heavy analytics**, and executive reporting
 
-- **Python Portfolio (Analytics → ML)** **https://github.com/RahulSingh8080/Python-From-Analysis-to-ML**
+- **[Python Portfolio (Analytics → ML)](https://github.com/RahulSingh8080/Python-From-Analysis-to-ML)**  
   EDA, automation, analytical workflows, and applied machine learning  
 
 *(Each repository demonstrates structured thinking, clean logic, and real business impact.)*
+
 
 ---
 
